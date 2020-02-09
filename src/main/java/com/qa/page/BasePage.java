@@ -8,7 +8,7 @@ public BasePage(){
         System.out.println("I am in base page");
     }
     public void add(){
-        System.out.println("I am add");
+        System.out.println("I am add and you can add me");
     }
     public void sub(){
         System.out.println("I am sub");
