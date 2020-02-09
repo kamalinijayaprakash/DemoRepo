@@ -13,4 +13,7 @@ public BasePage(){
     public void sub(){
         System.out.println("I am sub");
     }
+    public void mul(){
+        System.out.println("I am mul");
+    }
 }
