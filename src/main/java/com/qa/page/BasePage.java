@@ -10,4 +10,7 @@ public BasePage(){
     public void add(){
         System.out.println("I am add");
     }
+    public void sub(){
+        System.out.println("I am sub");
+    }
 }
