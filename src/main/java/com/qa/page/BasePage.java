@@ -7,4 +7,7 @@ public BasePage(){
     public BasePage(int a){
         System.out.println("I am in base page");
     }
+    public void add(){
+        System.out.println("I am add");
+    }
 }
